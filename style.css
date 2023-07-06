@@ -116,6 +116,7 @@ body .social-media-icons a i:hover {
     body {
         background: url(images/bg-mobile.svg) no-repeat center center/cover;
         background-color: var(--primary-color);
+        height: 100svh;
     }
     body .hero {
         flex-direction: column;
