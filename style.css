@@ -118,23 +118,23 @@ body .social-media-icons a i:hover {
         background-color: var(--primary-color);
         height: 100svh;
     }
-    body .hero {
+    .hero {
         flex-direction: column;
     }
-    body .hero .text-content {
+    .hero .text-content {
         text-align: center;
     }
-    body .header .logo img {
+    .header .logo img {
         width: 80%;
     }
-    body .hero .text-content .title {
+    .hero .text-content .title {
         font-size: 150%;
     }
-    body .social-media-icons {
+    .social-media-icons {
         text-align: center;
         padding-right: 2%;
     }
-    body .social-media-icons a i {
+    .social-media-icons a i {
 
         padding: 0.5rem;
         margin-inline: 1.5%;
